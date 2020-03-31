@@ -1,0 +1,9 @@
+*{
+  margin-left: auto;
+}
+
+#wrapper{
+  width: 99%;
+  height: 700px;
+  border: 2px solid;
+}
