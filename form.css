@@ -3,9 +3,9 @@
 }
 
 #container{
-  width: 99%;
+  width: 94%;
   height: 700px;
-  border: 2px solid;
+  /* border: 2px solid; */
 }
 
 h1{
@@ -16,7 +16,7 @@ h1{
 #wrapperA{
   width: 40%;
   height: 550px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   display: inline-block;
   float: left;
   margin-left: 3%;
@@ -25,7 +25,7 @@ h1{
 #wrapperB{
   width: 40%;
   height: 550px;
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   display: inline-block;
   float: right;
   margin-right: 3%;
@@ -33,7 +33,7 @@ h1{
 
 #inputForm > input{
   border: 2px solid;
-  width: 60%;
+  width: 68%;
   height: 50px;
   margin: .9em 17%;
   font-size: 25px;
@@ -56,8 +56,8 @@ h1{
   border: 2px solid;
   color: white;
   width: 70%;
-  height: 55px;
-  margin-top: 2.5em;
+  height: 68px;
+  margin-top: 1.8em;
   margin-left: 16%;
   font-size: 17px;
   letter-spacing: 2px;
